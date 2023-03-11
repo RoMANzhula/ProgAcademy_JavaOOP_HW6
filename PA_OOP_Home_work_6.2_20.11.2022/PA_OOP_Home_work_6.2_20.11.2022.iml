@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$APPLICATION_HOME_DIR$/jbr/bin/IntelliJ IDEA Community Edition 2022.2.3/Pograms/PA_OOP_Home_work_6.2_20.11.2022">
+      <sourceFolder url="file://$APPLICATION_HOME_DIR$/jbr/bin/IntelliJ IDEA Community Edition 2022.2.3/Pograms/PA_OOP_Home_work_6.2_20.11.2022/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
