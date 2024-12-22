@@ -20,7 +20,7 @@ public class Main {
     }
 }
 
-//2.Написать примеры программ, которые:
-//2.1 Выбрасывает NullPointerException
-//2.2 Выбрасывает ArrayIndexOutOfBoundsException (когда запрашиваете по несуществующему номеру ячейки)
-//2.3 Выбрасывает ClassCastException (когда делаете неправильное явное приведение типа).
+//2.Написати приклади програм, які:
+//2.1 Викидає NullPointerException
+//2.2 Викидає ArrayIndexOutOfBoundsException (коли запитуєте за неіснуючим номером комірки)
+//2.3 Викидає ClassCastException (коли робите неправильне приведення типу).
